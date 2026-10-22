@@ -1,5 +1,12 @@
+
 .env
 .venv/
 __pycache__/
 .pytest_cache/
 *.pyc
+
+node_modules
+.env
+__pycache__
+.DS_Store
+dfa1529c8e093116961e19e3cc894950c83ee4aa
